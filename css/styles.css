@@ -3,6 +3,10 @@ body {
   position: relative;
 }
 
+h1 {
+  color: #f0f;
+}
+
 .body-wrapper {
   display: block;
   height: 100vh;
